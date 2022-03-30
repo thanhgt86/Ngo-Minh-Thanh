@@ -24,7 +24,7 @@ All my completed front-end and back-end projects during the course of learning w
 |---|------|-------|------|-----|
 |1|[Visualize Data with a Bar Chart](https://codepen.io/thanhgt86/pen/qBXXJWE)|Basic|HTML + CSS|D3|
 |2|[Visualize Data with a Scatterplot Graph](https://codepen.io/thanhgt86/pen/wvqYmbv)|Basic|HTML + CSS|D3|
-|3|[Visualize Data with a Heat Map](https://codepen.io/thanhgt86/pen/XWaQYrj)|Basic|Basic|HTML + CSS|D3|
+|3|[Visualize Data with a Heat Map](https://codepen.io/thanhgt86/pen/XWaQYrj)|Basic|HTML + CSS|D3|
 |4|[Visualize Data with a Choropleth Map](https://codepen.io/thanhgt86/pen/abLoqrZ)|Basic|HTML + CSS|D3|
 |5|[Visualize Data with a Treemap Diagram](https://codepen.io/thanhgt86/pen/abLogNm)|Basic|HTML + CSS|D3|
 
