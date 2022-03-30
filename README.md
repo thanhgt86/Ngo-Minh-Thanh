@@ -11,18 +11,23 @@ All my completed front-end and back-end projects during the course of learning w
 |5|[Build a Personal Portfolio Webpage](https://codepen.io/thanhgt86/pen/gOmQjWo)|Basic|HTML + CSS|None|
 
 ### Front End Development Projects
-| # | Project Name | Level | HTML | CSS | JavaScript |
-|---|------|-------|------|-----|------------|
-|1|[Build a Tribute Page](https://codepen.io/thieurom/pen/oLavRd)|Basic|Pug|Sass|None|
-|2|[Build a Personal Portfolio Webpage](https://codepen.io/thieurom/pen/qNQjQy)|Basic|Pug|Sass|None|
-|3|[Build a Random Quote Machine](https://codepen.io/thieurom/pen/OXdOgo)|Intermediate|Pug|Sass|ES6|
-|4|[Show the Local Weather](https://codepen.io/thieurom/pen/LkampO)|Intermediate|Pug|Sass|React|
-|5|[Build a Wikipedia Viewer](https://codepen.io/thieurom/pen/NAVdPg)|Intermediate|Pug|Sass|ES6|
-|6|[Use the Twitch.tv JSON API](https://codepen.io/thieurom/pen/qaWKxm)|Intermediate|Pug|Sass|React|
-|7|[Build a JavaScript Calculator](https://codepen.io/thieurom/pen/zKLqQg)|Advanced|Pug|Sass|ES6|
-|8|[Build a Pomodoro Clock](https://codepen.io/thieurom/pen/GjPZzk)|Advanced|Pug|Sass|ES6|
-|9|[Build a Tic Tac Toe Game](https://codepen.io/thieurom/pen/zoYQJP)|Advanced|Pug|Sass|ES6|
-|10|[Build a Simon Game](https://codepen.io/thieurom/pen/oYxVyo)|Advanced|Pug|Sass|ES6|
+| # | Project Name | Level | Language | JavaScript |
+|---|------|-------|------|-----|
+|1|[Build a Random Quote Machine](https://codepen.io/thanhgt86/pen/wvedexL)|Basic|HTML + CSS|ES6|
+|2|[Build a Markdown Previewer](https://codepen.io/thanhgt86/pen/wveyBOE)|Basic|HTML + CSS|React|
+|3|[Build a Drum Machine](https://codepen.io/thanhgt86/pen/XWgBxxQ)|Basic|HTML + CSS|React|
+|4|[Build a JavaScript Calculator](https://codepen.io/thanhgt86/pen/eYEpYjV)|Basic|HTML + CSS|React|
+|5|[Build a 25 + 5 Clock](https://codepen.io/thanhgt86/pen/VwzmYyd)|Basic|HTML + CSS|React|
+
+### Data Visualization Projects
+| # | Project Name | Level | Language | JavaScript |
+|---|------|-------|------|-----|
+|1|[Visualize Data with a Bar Chart](https://codepen.io/thanhgt86/pen/qBXXJWE)|Basic|HTML + CSS|D3|
+|2|[Visualize Data with a Scatterplot Graph](https://codepen.io/thanhgt86/pen/wvqYmbv)|Basic|HTML + CSS|D3|
+|3|[Visualize Data with a Heat Map](https://codepen.io/thanhgt86/pen/XWaQYrj)|Basic|Basic|HTML + CSS|D3|
+|4|[Visualize Data with a Choropleth Map](https://codepen.io/thanhgt86/pen/abLoqrZ)|Basic|HTML + CSS|D3|
+|5|[Visualize Data with a Treemap Diagram](https://codepen.io/thanhgt86/pen/abLogNm)|Basic|HTML + CSS|D3|
+
 
 ### Back End Development Projects
 | # | Name | Site | Category | Server Stack |
