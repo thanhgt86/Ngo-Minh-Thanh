@@ -2,16 +2,16 @@
 All my completed front-end and back-end projects during the course of learning web development with [freeCodeCamp](https://www.freecodecamp.org/).
 
 ### Responsive Web Design Projects
-| # | Name | Level | HTML | CSS | JavaScript |
+| # | Project Name | Level | Programming Language | JavaScript |
 |---|------|-------|------|-----|------------|
-|1|[Build a Tribute Page](https://codepen.io/thieurom/pen/oLavRd)|Basic|Pug|Sass|None|
-|2|[Build a Survey Form](https://codepen.io/thieurom/pen/qNQjQy)|Basic|Pug|Sass|None|
-|3|[Build a Product Landing Page](https://codepen.io/thieurom/pen/OXdOgo)|Intermediate|Pug|Sass|ES6|
-|4|[Build a Technical Documentation Page](https://codepen.io/thieurom/pen/LkampO)|Intermediate|Pug|Sass|React|
-|5|[Build a Personal Portfolio Webpage](https://codepen.io/thieurom/pen/NAVdPg)|Intermediate|Pug|Sass|ES6|
+|1|[Build a Tribute Page](https://codepen.io/thanhgt86/pen/NWdVjqj)|Basic|HTML + CSS|None|
+|2|[Build a Survey Form](https://codepen.io/thanhgt86/pen/YzZqZJo)|Basic|HTML + CSS|None|
+|3|[Build a Product Landing Page](https://codepen.io/thanhgt86/pen/ExWWyzM)|Basic|HTML + CSS|None|
+|4|[Build a Technical Documentation Page](https://codepen.io/thanhgt86/pen/rNyZMJr)|Basic|HTML + CSS|None|
+|5|[Build a Personal Portfolio Webpage](https://codepen.io/thanhgt86/pen/gOmQjWo)|Basic|HTML + CSS|None|
 
 ### Front End Development Projects
-| # | Name | Level | HTML | CSS | JavaScript |
+| # | Project Name | Level | HTML | CSS | JavaScript |
 |---|------|-------|------|-----|------------|
 |1|[Build a Tribute Page](https://codepen.io/thieurom/pen/oLavRd)|Basic|Pug|Sass|None|
 |2|[Build a Personal Portfolio Webpage](https://codepen.io/thieurom/pen/qNQjQy)|Basic|Pug|Sass|None|
