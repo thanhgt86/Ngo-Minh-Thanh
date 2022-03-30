@@ -35,5 +35,5 @@ All my completed front-end and back-end projects during the course of learning w
 ### Certifications
 - [Front End Development Certification](https://www.freecodecamp.org/certification/minhthanh/javascript-algorithms-and-data-structures), certified on Aug 12, 2021
 - [Front End Development Certification](https://www.freecodecamp.org/certification/minhthanh/front-end-development-libraries), certified on Oct 25, 2021
-- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/minhthanh/data-visualization), certified on Mar 30, 2022
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/minhthanh/responsive-web-design), certified on Mar 30, 2022
 - [Data Visualization Certification](https://www.freecodecamp.org/certification/minhthanh/data-visualization), certified on Mar 30, 2022
