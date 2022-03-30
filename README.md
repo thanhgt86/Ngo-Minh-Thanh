@@ -29,20 +29,11 @@ All my completed front-end and back-end projects during the course of learning w
 |5|[Visualize Data with a Treemap Diagram](https://codepen.io/thanhgt86/pen/abLogNm)|Basic|HTML + CSS|D3|
 
 
-### Back End Development Projects
-| # | Name | Site | Category | Server Stack |
-|---|------|------|----------|--------------|
-|1|[Timestamp Microsevice](https://github.com/Thieurom/fcc-timestamp)|[u-timestamp](https://u-timestamp.herokuapp.com/)|API Projects|ExpressJS|
-|2|[Request Header Parser Microservice](https://github.com/Thieurom/fcc-reqheadparser)|[u-reqheadparser](https://u-reqheadparser.herokuapp.com/)|API Projects|ExpressJS|
-|3|[URL Shortener Microservice](https://github.com/Thieurom/fcc-uurl)|[u-url](https://u-url.herokuapp.com/)|API Projects|ExpressJS + MongoDB|
-|4|[Image Search Abstraction Layer](https://github.com/Thieurom/fcc-imagesearch)|[u-imagesearch](https://u-imagesearch.herokuapp.com/)|API Projects|ExpressJS|
-|5|[File Metadata Microservice](https://github.com/Thieurom/fcc-filemetadata)|[u-file](https://u-file.herokuapp.com/)|API Projects|ExpressJS|
-|6|[Build a Voting App](https://github.com/Thieurom/fcc-voting)|[votee](https://votee.herokuapp.com/)|Dynamic Web Application|ExpressJS + MongoDB|
-|7|[Build a Nightlife Coordination App](https://github.com/Thieurom/fcc-nitex)|[nitex](https://nitex.herokuapp.com/)|Dynamic Web Application|ExpressJS + MongoDB|
-|8|[Chart the Stock Market](https://github.com/Thieurom/fcc-lookstocks)|[lookstocks](https://lookstocks.herokuapp.com/)|Dynamic Web Application|ExpressJS + MongoDB|
-|9|[Manage a Book Trading Club](https://github.com/Thieurom/fcc-buuktreid)|[buuktreid](https://buuktreid.herokuapp.com/)|Dynamic Web Application|Ruby on Rails + PostgreSQL|
-|10|[Build a Pinterest Clone](https://github.com/Thieurom/fcc-fotonbord)|[fotonbord](https://fotonbord.herokuapp.com/)|Dynamic Web Application|Ruby on Rails + PostgreSQL|
+### Back End Development Projects: on going
+
 
 ### Certifications
-- [Front End Development Certification](https://www.freecodecamp.org/thieurom/front-end-certification), certified on Nov 19, 2016
-- [Back End Development Certification](https://www.freecodecamp.org/thieurom/back-end-certification), certified on June 28, 2017
+- [Front End Development Certification](https://www.freecodecamp.org/certification/minhthanh/javascript-algorithms-and-data-structures), certified on Aug 12, 2021
+- [Front End Development Certification](https://www.freecodecamp.org/certification/minhthanh/front-end-development-libraries), certified on Oct 25, 2021
+- [Responsive Web Design Certification](https://www.freecodecamp.org/certification/minhthanh/data-visualization), certified on Mar 30, 2022
+- [Data Visualization Certification](https://www.freecodecamp.org/certification/minhthanh/data-visualization), certified on Mar 30, 2022
