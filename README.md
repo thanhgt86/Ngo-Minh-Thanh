@@ -1,6 +1,15 @@
 ## Learn Web Development with freeCodeCamp
 All my completed front-end and back-end projects during the course of learning web development with [freeCodeCamp](https://www.freecodecamp.org/).
 
+### Responsive Web Design Projects
+| # | Name | Level | HTML | CSS | JavaScript |
+|---|------|-------|------|-----|------------|
+|1|[Build a Tribute Page](https://codepen.io/thieurom/pen/oLavRd)|Basic|Pug|Sass|None|
+|2|[Build a Survey Form](https://codepen.io/thieurom/pen/qNQjQy)|Basic|Pug|Sass|None|
+|3|[Build a Product Landing Page](https://codepen.io/thieurom/pen/OXdOgo)|Intermediate|Pug|Sass|ES6|
+|4|[Build a Technical Documentation Page](https://codepen.io/thieurom/pen/LkampO)|Intermediate|Pug|Sass|React|
+|5|[Build a Personal Portfolio Webpage](https://codepen.io/thieurom/pen/NAVdPg)|Intermediate|Pug|Sass|ES6|
+
 ### Front End Development Projects
 | # | Name | Level | HTML | CSS | JavaScript |
 |---|------|-------|------|-----|------------|
