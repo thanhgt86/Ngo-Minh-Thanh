@@ -3,7 +3,7 @@ All my completed front-end and back-end projects during the course of learning w
 
 ### Responsive Web Design Projects
 | # | Project Name | Level | Programming Language | JavaScript |
-|---|------|-------|------|-----|------------|
+|---|------|-------|------|-----|
 |1|[Build a Tribute Page](https://codepen.io/thanhgt86/pen/NWdVjqj)|Basic|HTML + CSS|None|
 |2|[Build a Survey Form](https://codepen.io/thanhgt86/pen/YzZqZJo)|Basic|HTML + CSS|None|
 |3|[Build a Product Landing Page](https://codepen.io/thanhgt86/pen/ExWWyzM)|Basic|HTML + CSS|None|
